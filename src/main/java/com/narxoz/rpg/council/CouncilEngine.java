@@ -26,7 +26,7 @@ public class CouncilEngine {
             hall.register(m);
         }
     }
-    
+
 
     public int walkOrdered(QuestLog log, Hero hero) {
         System.out.println("\n── Обход в порядке добавления (OrderedIterator) ──");
